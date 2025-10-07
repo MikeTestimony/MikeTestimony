@@ -80,7 +80,12 @@ My long-term goal is to contribute to innovative software ecosystems that advanc
 🧑‍💻 Programming
 <div> <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-C%23-512BD4?&style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=java&logoColor=white" /> </div>
 🗄️ Databases
-<div> <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/-MongoDB-47A248?&style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/-Firebase-FFCA28?&style=for-the-badge&logo=firebase&logoColor=black" /> </div>
+<div>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?&style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?&style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?&style=for-the-badge&logo=supabase&logoColor=white" />
+</div>
 
 ## 🚀 Featured Projects
 
