@@ -113,9 +113,9 @@ Here are a few of the projects I’m currently working on and building upon:
 
 ## 📫 Let’s Connect
 
-💌 Email: theprinceofpeace19@gmail.com
+**💌 Email:** theprinceofpeace19@gmail.com
 
-📍 Location: Techiman, Bono East, Ghana
+**📍 Location:** Techiman, Bono East, Ghana
 
 <a href="https://github.com/MikeTestimony"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/michael-debuo-testimony25"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -133,10 +133,10 @@ Here are a few of the projects I’m currently working on and building upon:
 🎥 Content creator at Afritech Mpire, where I make content on software development, tech tips, tech trend, programing, general computer literacy. 
 .
 
-⚙️ Motto: “Where creativity meets technology.”
+**⚙️ Motto:** “Where creativity meets technology.”
 
-🧩 Personal Slogan: “Building solutions, one line at a time.”
+**🧩 Personal Slogan:** “Building solutions, one line at a time.”
 
-🏷️ Hashtags
+## 🏷️ Hashtags
 
 #TechForCreativity #AnythingTech #WhereCreativityMeetsTechnology #BuildingSolutionsOneLineAtATime
