@@ -18,9 +18,13 @@
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://wa.me/233549062449">
-  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://michael-debuo-testimony.netlify.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
 </p>
+
 
 ## 💡 About Me
 
@@ -117,12 +121,22 @@ Here are a few of the projects I’m currently working on and building upon:
 
 **📍 Location:** Techiman, Bono East, Ghana
 
-<a href="https://github.com/MikeTestimony"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/michael-debuo-testimony25"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://youtube.com/@afritech-mpire"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="https://wa.me/233549062449">
-  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://github.com/MikeTestimony">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="https://www.linkedin.com/in/michael-debuo-testimony25">
+  <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://youtube.com/@afritech-mpire">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://wa.me/233549062449">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://michael-debuo-testimony.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
+
 
 ## ✨ Fun Facts
 
