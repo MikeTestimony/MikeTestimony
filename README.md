@@ -42,7 +42,7 @@ My long-term goal is to contribute to innovative software ecosystems that advanc
 ## 🧠 Technical Skills
 | Category                  | Skills                                                                         |
 | ------------------------- | ------------------------------------------------------------------------------ |
-| **Web Development**       | HTML • CSS • JavaScript • Tailwind CSS • React.js • SaSS • Express.js • Node.js |
+| **Web Development**       | HTML • CSS • JavaScript • Tailwind CSS • React.js • SaSS • Express.js • Node.js • WordPress |
 | **Programming Languages** | Python • C# • Java • JavaScript                                                |
 | **Databases**             | MySQL • MongoDB • Firebase • Supabase                                                    |
 | **Creative Tools & Tech** | Figma • Adobe Photoshop • Canva                                              |
@@ -76,7 +76,17 @@ My long-term goal is to contribute to innovative software ecosystems that advanc
 
 # 🧰 Tools & Technologies
 ## 💻 Web Development
-<div> <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/-React-61DAFB?&style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?&style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/-Node.js-339933?&style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Express.js-000000?&style=for-the-badge&logo=express&logoColor=white" /> </div>
+<div> 
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/-React-61DAFB?&style=for-the-badge&logo=react&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?&style=for-the-badge&logo=tailwindcss&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Node.js-339933?&style=for-the-badge&logo=node.js&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Express.js-000000?&style=for-the-badge&logo=express&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-WordPress-21759B?&style=for-the-badge&logo=wordpress&logoColor=white" /> 
+</div>
+
 🧑‍💻 Programming
 <div> <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-C%23-512BD4?&style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=java&logoColor=white" /> </div>
 🗄️ Databases
