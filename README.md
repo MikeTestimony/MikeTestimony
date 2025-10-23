@@ -29,14 +29,16 @@
 ## 💡 About Me
 
 
-I’m Michael Debuo, a passionate Software Engineer and Creative Technologist from Techiman, Ghana.
+I’m Michael Debuo, a Software Engineer and a Creative Technologist specializing in full stack web development and mobile app development. I am very passionate about turning ideas into realities through modern technologies and empowering the next generation of creatives and tech talents. I am commited to continuous learning and to sharing my knowledge and skills with others to inspire growth and innovation.
 Driven by curiosity and creativity, I explore how technology can be used to build solutions that inspire, connect, and empower.
 
 I’m deeply interested in the intersection between software development, innovation, and creative problem-solving — building projects that merge technical precision with user-centered design.
 
+I am a BSc. computer science student of the Univeristy of Mines and Technology, Ghana.
+
 I am currently working at AFri TechBridge Ltd as a software developer and a project manager. Afri TechBridge is a tech company based in Ghana that is committed to developing robust software solutions to businesses and also provides hands-on training programs for people that are seeking careering in software development, or wants to improve their IT and modern digital skills.
 
-“Technology is not just about code — it’s about creating experiences that move people.”
+“Technology is not just about code, it’s about creating experiences that empower people.”
 
 ## 🎯 Objective
 
@@ -147,7 +149,7 @@ Here are a few of the projects I’m currently working on and building upon:
 🎥 Content creator at Afritech Mpire, where I make content on software development, tech tips, tech trend, programing, general computer literacy. 
 .
 
-**⚙️ Motto:** “Where creativity meets technology.”
+**⚙️ Motto:** “Empowering Creativity through Technology”
 
 **🧩 Personal Slogan:** “Building solutions, one line at a time.”
 
