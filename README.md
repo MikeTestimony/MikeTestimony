@@ -14,7 +14,7 @@
   <a href="https://github.com/MikeTestimony">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@afritech-mpire">
+  <a href="https://www.youtube.com/@MiSofTech">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://wa.me/233549062449">
@@ -129,7 +129,7 @@ Here are a few of the projects I’m currently working on and building upon:
 <a href="https://www.linkedin.com/in/michael-debuo-testimony25">
   <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://youtube.com/@afritech-mpire">
+<a href="https://www.youtube.com/@MiSofTech">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 <a href="https://wa.me/233549062449">
