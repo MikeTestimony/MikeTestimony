@@ -49,7 +49,7 @@ My long-term goal is to contribute to innovative software ecosystems that advanc
 | Category                  | Skills                                                                         |
 | ------------------------- | ------------------------------------------------------------------------------ |
 | **Web Development**       | HTML • CSS • JavaScript • Tailwind CSS • React.js • SaSS • Express.js • Node.js • WordPress |
-| **Programming Languages** | Python • C# • Java • JavaScript                                                |
+| **Programming Languages** | Python • TypeScript • JavaScript                                                |
 | **Databases**             | MySQL • MongoDB • Firebase • Supabase                                                    |
 | **Creative Tools & Tech** | Figma • Adobe Photoshop • Canva                                              |
 | **Version Control**       | Git • GitHub                                                                   |
@@ -94,7 +94,10 @@ My long-term goal is to contribute to innovative software ecosystems that advanc
 </div>
 
 ## 🧑‍💻 Programming
-<div> <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-C%23-512BD4?&style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=java&logoColor=white" /> </div>
+<div> <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
+     <img src="https://img.shields.io/badge/-TypeScript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white" />
+ </div>
 
 ## 🗄️ Databases
 <div>
@@ -110,10 +113,9 @@ Here are a few of the projects I’m currently working on and building upon:
 
 | Project                           | Description                                                                                                                                         | Status            |
 | --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| **🌍 My City Guide**              | A web platform that connects users with local businesses and events, helping communities discover services nearby.                                  | Coming Soon       |
-| **🎙️ Student Podcast Web App**   | A digital space designed for students to record, publish, and share podcasts — fostering creativity, expression, and learning through conversation. | Under Development |
-| **🏡 RXtate App**                 | A modern real estate platform connecting property owners with potential buyers and clients, simplifying listings, inquiries, and sales management.  | Under Development |
-| **💼 Personal Portfolio Website** | My professional online portfolio showcasing my skills, background, and creative projects.                                                           | Coming Soon       |
+| **🌍 MyCitiGuide App**              | A web platform that connects users with local businesses and events, helping communities. A digital city guide helping residents and visitors easily locate essential services, institutions, and businesses discover services nearby.                                  | Coming Soon       |
+| **💊 MedTrack**   | A medication reminder app that provides timely notifications, tracks dosage intake, and helps users stay consistent with their medication schedule. Built as a capstone project for the TechCrush Frontend Development course, where I contributed as part of the frontend team. | Completed|
+| **✈️ VisaTrack**                 |A cross-platform system that enables visa requirements lookup for 15 countries, with plans to scale further. It also supports visa application tracking and trip planning in one place. Built as the capstone project for the TechCrush Backend Development course, I contributed as part of the backend team and developed the admin dashboard for secure data ingestion and management.  | Completed |
 
 
 
@@ -144,12 +146,11 @@ Here are a few of the projects I’m currently working on and building upon:
 
 💡 I believe every line of code can make someone’s life easier.
 
-🌱 Currently learning advanced React and backend development with Express.js. I am also taking a web development certificate program at TechCrush(Tech4Africans) program.
 
 🎥 Content creator at Afritech Mpire, where I make content on software development, tech tips, tech trend, programing, general computer literacy. 
 .
 
-**⚙️ Motto:** “Empowering Creativity through Technology”
+**⚙️ Motto:** “Building Solutions, and Empowering Creativity”
 
 **🧩 Personal Slogan:** “Building solutions, one line at a time.”
 
