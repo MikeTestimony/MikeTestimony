@@ -36,7 +36,7 @@ I’m deeply interested in the intersection between software development, innova
 
 I am a BSc. computer science student of the Univeristy of Mines and Technology, Ghana.
 
-I am currently working at AFri TechBridge Ltd as a software developer and a project manager. Afri TechBridge is a tech company based in Ghana that is committed to developing robust software solutions to businesses and also provides hands-on training programs for people that are seeking careering in software development, or wants to improve their IT and modern digital skills.
+I am currently working at AFri TechLeap Axis Ltd as a software developer and a project manager. Afri TechLeap is a tech company based in Ghana that is committed to developing robust software solutions to businesses and also provides hands-on training programs for people that are seeking careering in software development, or wants to improve their IT and modern digital skills.
 
 “Technology is not just about code, it’s about creating experiences that empower people.”
 
